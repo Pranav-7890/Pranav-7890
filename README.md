@@ -49,6 +49,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=numpy" height="60" alt="Numpy logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=pandas" height="60" alt="Pandas logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=matplotlib" height="60" alt="matplot logo"  />
+  <img width="12" />
+  <img src="https://skills.syvixor.com/api/icons?i=powerbi" height="60" alt="PowerBI logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
